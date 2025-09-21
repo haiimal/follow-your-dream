@@ -1,1 +1,5 @@
 menjadi devops
+-belajar docker
+-belajar next js
+-belajar golang
+-belajar python
