@@ -4,3 +4,4 @@ menjadi devops
 -belajar golang
 -belajar python
 -belajar postgres
+-belajar git & github
