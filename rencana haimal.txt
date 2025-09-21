@@ -3,3 +3,4 @@ menjadi devops
 -belajar next js
 -belajar golang
 -belajar python
+-belajar postgres
